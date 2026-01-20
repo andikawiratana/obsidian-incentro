@@ -1,18 +1,3 @@
-**Non Visual**
-- Target Models:
-	- [[Redirection List]]
-
-**Form Submissions**
-- Target Models:
-	- [[Hubspot Form]]
-	- [[Eventbrite Form]]
-
-**Dynamic Data Feeds**
-- Target Models:
-	- [[Dynamic Carousel Feed Section]]
-	- [[Dynamic Partner Feed Section]]
-	- [[Dynamic Insights Feed Section]]
-
 **Visual & Component Integrity**
 - Target Models:
 	- Page Level (Base)
@@ -47,3 +32,18 @@
 		- [[Quotation Section]]
 		- [[Shape Section]]
 		- [[Sliding Text Section]]
+
+**Non Visual**
+- Target Models:
+	- [[Redirection List]]
+
+**Form Submissions**
+- Target Models:
+	- [[Hubspot Form]]
+	- [[Eventbrite Form]]
+
+**Dynamic Data Feeds**
+- Target Models:
+	- [[Dynamic Carousel Feed Section]]
+	- [[Dynamic Partner Feed Section]]
+	- [[Dynamic Insights Feed Section]]
