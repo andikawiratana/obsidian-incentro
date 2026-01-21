@@ -26,11 +26,11 @@
   found detail scenario with code inside 
   this is the overview :
 	- UI Approach :
-		- Navigate to a page containing Contentful data fetcher
+		- Navigate to a page containing `Contentful` data fetcher
 		- Click each content category button
 		- Verify the request success and validate data structure
 	- Functional Approach :
-		- Provide list of URL that represent Contentful data fetcher for each category
+		- Provide list of URL that represent `Contentful` data fetcher for each category
 		- Hit each provided URL
 		- verify the request success and validate data structure
 - Target Models:
@@ -39,6 +39,7 @@
 	- [[Dynamic Insights Feed Section]]
 
 **Visual & Component Integrity**
+- Scenario : *Visual Regression Test*
 - Target Models:
 	- Page Level (Base)
 		- [[Page]]
