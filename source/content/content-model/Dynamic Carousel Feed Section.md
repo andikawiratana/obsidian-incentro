@@ -1,5 +1,8 @@
 Dynamic Carousel showing content items of a specific content type.
 
+**find it in : **
+- `apps/web/src/components/contentful/dynamic-carousel-section/index.tsx`
+
 **The data requirement :**
 - Internal Name ==Short text==
 - Title ==Short text==

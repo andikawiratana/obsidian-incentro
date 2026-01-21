@@ -1,3 +1,43 @@
+
+**Non Visual**
+- Scenario :
+  found detail scenario with code inside [[non-visual-scenario]]
+  this is the overview :
+	- Provide pair URL that is URL and it's redirection
+	- Navigate to a page the specific redirection
+	- Validate is redirection successful
+- Target Models:
+	- [[Redirection List]]
+
+**Form Submissions**
+- Scenario :
+  found detail scenario with code inside [[form-submission-scenario]].
+  this is the overview :
+	- Navigate to a page containing a form
+	- Fill form with valid data
+	- Intercept API request, to ensure the payload is correct
+	- Verify the success state
+- Target Models:
+	- [[Hubspot Form]]
+	- [[Eventbrite Form]]
+
+**Dynamic Data Feeds**
+- Scenario :
+  found detail scenario with code inside 
+  this is the overview :
+	- UI Approach :
+		- Navigate to a page containing Contentful data fetcher
+		- Click each content category button
+		- Verify the request success and validate data structure
+	- Functional Approach :
+		- Provide list of URL that represent Contentful data fetcher for each category
+		- Hit each provided URL
+		- verify the request success and validate data structure
+- Target Models:
+	- [[Dynamic Carousel Feed Section]]
+	- [[Dynamic Partner Feed Section]]
+	- [[Dynamic Insights Feed Section]]
+
 **Visual & Component Integrity**
 - Target Models:
 	- Page Level (Base)
@@ -32,18 +72,3 @@
 		- [[Quotation Section]]
 		- [[Shape Section]]
 		- [[Sliding Text Section]]
-
-**Non Visual**
-- Target Models:
-	- [[Redirection List]]
-
-**Form Submissions**
-- Target Models:
-	- [[Hubspot Form]]
-	- [[Eventbrite Form]]
-
-**Dynamic Data Feeds**
-- Target Models:
-	- [[Dynamic Carousel Feed Section]]
-	- [[Dynamic Partner Feed Section]]
-	- [[Dynamic Insights Feed Section]]
